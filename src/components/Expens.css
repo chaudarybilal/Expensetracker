@@ -10,7 +10,7 @@
  
 }
 .exp{
-    background: darkslategray;
+    background:gray;
     display: flex;
     justify-content: space-around;
     align-items: center;
