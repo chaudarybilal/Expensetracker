@@ -1,0 +1,17 @@
+.exp-date{
+    font-size:1rem;
+    font-weight: bold;
+  
+
+}
+.sec{
+    border: 1px solid #ececec;
+    padding: 10px;
+    color: white;
+    width: 5.5rem;
+    height: 5.5rem;
+    border-radius: 20px;
+    align-items: center;
+   
+    background-color: black;
+}
